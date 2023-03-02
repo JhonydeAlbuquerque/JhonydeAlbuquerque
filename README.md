@@ -20,8 +20,8 @@ Eu sou o Jhony de Albuquerque, sou um programador Front End, e cada dia estou ev
  <br/>
  <br/>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonydeAlbuquerque&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonydeAlbuquerque&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
  
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonydeAlbuquerque)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonydeAlbuquerque&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
